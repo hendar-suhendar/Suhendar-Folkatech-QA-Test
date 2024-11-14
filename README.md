@@ -23,7 +23,7 @@ This is an example for API Testing and verification response with Postive and Ne
 
 [Postman Test Automate](https://github.com/hendar-suhendar/Suhendar-Folkatech-QA-Test/blob/b60f4d6ecb70c8360c2ec5ce738aab74bf8bcd9a/Manual%20Test%20-%20Jawab%20Soal%202.docx)
 
-4. Performance Test
+3. Performance Test
 This is an example for Performance Test Using Postman and my documentation how to Performance test previously using JMeter 
 
 [Performance Test](https://github.com/hendar-suhendar/Suhendar-Folkatech-QA-Test/tree/b60f4d6ecb70c8360c2ec5ce738aab74bf8bcd9a/Performance%20Test)
