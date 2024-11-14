@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC2_Negative_Login with Invalid Username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6e168a0-3785-4e0e-9184-80a19824af22</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6c07a8f5-9d8c-4683-90e3-05773d957e9f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>41447a31-8220-4ec2-bd8e-cee84b96c3c4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0b88b121-17cb-4f80-8edd-5af032e1e689</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'admin@sample.com'</defaultValue>
+      <description></description>
+      <id>6c07a8f5-9d8c-4683-90e3-05773d957e9f</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>41447a31-8220-4ec2-bd8e-cee84b96c3c4</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'Login Gagal! Akun tidak ada.'</defaultValue>
+      <description></description>
+      <id>0b88b121-17cb-4f80-8edd-5af032e1e689</id>
+      <masked>false</masked>
+      <name>verify_result</name>
+   </variable>
+</TestCaseEntity>
