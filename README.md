@@ -8,6 +8,7 @@ https://docs.google.com/spreadsheets/d/12ERjx-1cHLIgRZbfaOAQU9K0tRu23bok/edit?us
 
 2. Exploratory Testing
 This is below as an example of the question on Exploratory Testing
+
 https://github.com/hendar-suhendar/Suhendar-Folkatech-QA-Test/blob/b60f4d6ecb70c8360c2ec5ce738aab74bf8bcd9a/Manual%20Test%20-%20Jawab%20Soal%202.docx
    
 
